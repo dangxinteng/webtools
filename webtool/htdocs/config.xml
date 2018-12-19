@@ -1,5 +1,5 @@
 <config>
-	<url>ojisuan.com</url>
+	<url>http://www.ojisuan.com</url>
 	<title>ojisuan.com(o计算)-Ooo的个人博客</title>
 	<description>ojisuan是一个专注于计算机技术、电子技术的个人博客。关注Modern C++，线程安全、数据结构与算法，设计模式，图形界面技术，并发服务器技术、编译器、解释器、操作系统原理与实现、并行计算，异构计算等相关技术。网站中提供了大量的实践例子与相关源码实现。</description>
 	<keywords>c/c++,Modern c++,数据结构,算法,设计模式,图像界面,MFC,QT,服务器,编译器,解释器,操作系统,线程,同步,并发,并行,异构计算,cuda,源代码</keywords>
@@ -13,7 +13,7 @@
 		<item name="tag">标签</item>
 		<item name="star">星标</item>
 		<item name="archive">归档</item>
-		<item name="about" redirect="?md=_post/关于本站.txt">关于</item>
+		<item name="about" redirect="/?md=_post/关于本站.txt">关于</item>
 	</navigation>
 	<email>978831608@qq.com</email>
 </config>
