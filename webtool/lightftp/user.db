@@ -1,4 +1,5 @@
 sim abab++-- /home/sim
+web abab++-- /opt/lampp/htdocs
 doc abab++-- /opt/lampp/htdocs/_post
 image abab++-- /opt/lampp/htdocs/_v_images
 attach abab++-- /opt/lampp/htdocs/_v_attachments
